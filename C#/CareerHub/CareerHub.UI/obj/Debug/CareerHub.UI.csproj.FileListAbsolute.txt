@@ -1,0 +1,17 @@
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.UI.exe.config
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.UI.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.UI.pdb
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.BusinesssLayer.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.DatabaseLayer.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.Entity.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.BusinesssLayer.pdb
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.BusinesssLayer.exe.config
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.DatabaseLayer.pdb
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.DatabaseLayer.exe.config
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.Entity.pdb
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\bin\Debug\CareerHub.Entity.exe.config
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\obj\Debug\CareerHub.UI.csproj.AssemblyReference.cache
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\obj\Debug\CareerHub.UI.csproj.CoreCompileInputs.cache
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\obj\Debug\CareerHu.9D3A8EDF.Up2Date
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\obj\Debug\CareerHub.UI.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.UI\obj\Debug\CareerHub.UI.pdb

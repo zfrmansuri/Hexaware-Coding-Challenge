@@ -1,0 +1,7 @@
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\bin\Debug\CareerHub.Entity.exe.config
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\bin\Debug\CareerHub.Entity.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\bin\Debug\CareerHub.Entity.pdb
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\obj\Debug\CareerHub.Entity.csproj.AssemblyReference.cache
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\obj\Debug\CareerHub.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\obj\Debug\CareerHub.Entity.exe
+C:\Users\mrraj\Pictures\CareerHub\CareerHub.Entity\obj\Debug\CareerHub.Entity.pdb
